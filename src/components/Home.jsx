@@ -8,11 +8,11 @@ function Home() {
         <marquee width="100%" direction="left" height="50px">
           Welcome to Sri Kotilinga Hari Hara Mahakshetram
         </marquee>
-        <SlCarousel className="aspect-ratio" loop navigation pagination >
+        <SlCarousel pagination autoplay >
           <SlCarouselItem>
             <img
               alt="The sun shines on the mountains and trees (by Adam Kool on Unsplash)"
-              src="/6.jpg"
+              src="/1.jpg"
             />
           </SlCarouselItem>
           <SlCarouselItem>
@@ -42,7 +42,7 @@ function Home() {
           <SlCarouselItem>
             <img
               alt="A scenic view of a mountain with clouds rolling in (by V2osk on Unsplash)"
-              src="/1.jpg"
+              src="/6.jpg"
             />
           </SlCarouselItem>
         </SlCarousel>
