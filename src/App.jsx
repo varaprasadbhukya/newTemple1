@@ -10,7 +10,7 @@ setBasePath('https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.4.0/dist/')
 
 function App() {
   return (
-    <div>
+    <div >
       <Tabs />
     </div>
   );

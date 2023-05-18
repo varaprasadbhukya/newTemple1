@@ -6,13 +6,25 @@ function Home() {
     <div>
       <div>
         <marquee width="100%" direction="left" height="50px">
-          Welcome to Sri Kotilinga Hari Hara Mahakshetram
+         Welcome to Sri Kotilinga Hari Hara Mahakshetram 
         </marquee>
         <SlCarousel pagination autoplay>
           <SlCarouselItem>
             <img
               alt="The sun shines on the mountains and trees (by Adam Kool on Unsplash)"
               src="/1.jpg"
+            />
+          </SlCarouselItem>
+          <SlCarouselItem>
+            <img
+              alt="The sun shines on the mountains and trees (by Adam Kool on Unsplash)"
+              src="/temp1.jpg"
+            />
+          </SlCarouselItem>
+          <SlCarouselItem>
+            <img
+              alt="The sun shines on the mountains and trees (by Adam Kool on Unsplash)"
+              src="/temp.jpg"
             />
           </SlCarouselItem>
           <SlCarouselItem>
