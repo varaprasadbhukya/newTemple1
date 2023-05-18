@@ -8,7 +8,7 @@ function Home() {
         <marquee width="100%" direction="left" height="50px">
           Welcome to Sri Kotilinga Hari Hara Mahakshetram
         </marquee>
-        <SlCarousel className="aspect-ratio" loop navigation pagination style={{ '--aspect-ratio': 5 / 2 }}>
+        <SlCarousel className="aspect-ratio" loop navigation pagination >
           <SlCarouselItem>
             <img
               alt="The sun shines on the mountains and trees (by Adam Kool on Unsplash)"
