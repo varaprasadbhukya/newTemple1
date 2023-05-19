@@ -2,7 +2,10 @@ import React from 'react'
 
 function Contact() {
   return (
-    <div>Contact Page</div>
+    <div>
+      <h6>Click on the whatapp icon to start chat</h6>
+      <a href='https://wa.me/9949947830'>WhatsApp</a>
+    </div>
   )
 }
 
