@@ -75,8 +75,9 @@ function Home() {
         <span className="paragraph">Mahashivaratri, Karthika Masam, Ugadi.</span>
         <h3>Address</h3>
         <p className="paragraph">KotiLingala Road, Jaggayapeta Mandal, Mukteswarapuram, Jaggayyapeta, Krishna District, Andhra Pradesh, 521457, India.</p>
-        <h3>Sri Kotilinga Hari Hara Mahakshetram Map</h3>
-        <a href='https://goo.gl/maps/bmYi7SWmrLvvV4VX8'>click here for the directions</a>
+        <h3>Sri Kotilinga Hari Hara Mahakshetram Map</h3><br/>
+        <span>click on the location icon for the route</span>
+        <a href='https://goo.gl/maps/bmYi7SWmrLvvV4VX8'><img style={{paddingLeft:"20px", height:"25px", width:"20px"}} src='images.png' alt=""/></a>
       </div>
     </div>
   )
